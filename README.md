@@ -35,6 +35,7 @@ Flutter
 
 ### Databases
 
+MongoDB
 SQL Server
 Oracle
 
@@ -107,6 +108,8 @@ Developed a desktop stock management application using **C++**.
 
 ## 📜 Certifications
 
+✔ Foundational C# with Microsoft
+
 ✔ Java Programming
 
 ✔ UML Software Modeling
@@ -118,7 +121,5 @@ Developed a desktop stock management application using **C++**.
 ## 🌍 Portfolio
 
 🌐 https://aymane-wakach.vercel.app
-
-## 📫 Contact
 
 📧 aymen.wakach@gmail.com
