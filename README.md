@@ -4,6 +4,14 @@ Software Engineer passionate about building scalable web and mobile applications
 
 Currently focused on Java, Spring Boot, NestJS, Angular, Flutter and modern software architecture.
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wakach-aymane/wakach-aymane/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wakach-aymane/wakach-aymane/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/wakach-aymane/wakach-aymane/output/github-snake.svg" />
+</picture>
+
 ## 💻 About Me
 
 🎓 Software Engineering graduate from EMSI (2025)
