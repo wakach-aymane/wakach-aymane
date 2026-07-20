@@ -4,6 +4,8 @@ Software Engineer passionate about building scalable web and mobile applications
 
 Currently focused on Java, Spring Boot, NestJS, Angular, Flutter and modern software architecture.
 
+[![contribution quilt for wakach-aymane](https://quilt.jass.gg/u/wakach-aymane.svg)](https://quilt.jass.gg/u/wakach-aymane)
+
 ## 💻 About Me
 
 🎓 Software Engineering graduate from EMSI (2025)
