@@ -14,6 +14,14 @@ I'm passionate about backend development, software architecture and creating hig
 
 I enjoy learning new technologies, improving existing systems and building software that solves real-world problems.
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/wakach-aymane">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wakach-aymane&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  </a>
+</p>
+
 ## 🛠 Tech Stack
 
 ### Languages
